@@ -1,4 +1,4 @@
-# Curso Ling C#
+# Curso Introdução a Programação usando a Linguagem C#
 
 Autor: Prof Joacir Ferreira
 
